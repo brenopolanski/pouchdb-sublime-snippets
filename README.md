@@ -1,12 +1,10 @@
-# PouchDB Sublime snippets
+# PouchDB Sublime snippets [![Build Status](https://travis-ci.org/brenopolanski/pouchdb-sublime-snippets.svg?branch=master)](https://travis-ci.org/brenopolanski/pouchdb-sublime-snippets)
 
 <img src="https://raw.githubusercontent.com/brenopolanski/pouchdb-sublime-snippets/gh-assets/pouchdb-sublime-snippets.png" alt="CSS Comments snippets" align="right" />
 
 PouchDB snippets for [Sublime Text](http://www.sublimetext.com/).
 
-[PouchDB](http://pouchdb.com/) is an open-source JavaScript database inspired by Apache [CouchDB](http://couchdb.apache.org) that is designed to run well within the browser.
-
-PouchDB was created to help web developers build applications that work as well offline as they do online.
+[PouchDB](http://pouchdb.com/) is an open-source JavaScript database inspired by Apache [CouchDB](http://couchdb.apache.org) that is designed to run well within the browser. Was created to help web developers build applications that work as well offline as they do online.
 
 ## Contributing
 
