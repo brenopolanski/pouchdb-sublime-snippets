@@ -4,6 +4,10 @@
 
 PouchDB snippets for [Sublime Text](http://www.sublimetext.com/).
 
+[PouchDB](http://pouchdb.com/) is an open-source JavaScript database inspired by Apache [CouchDB](http://couchdb.apache.org) that is designed to run well within the browser.
+
+PouchDB was created to help web developers build applications that work as well offline as they do online.
+
 ## Contributing
 
 1. Fork it!
