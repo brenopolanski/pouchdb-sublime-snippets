@@ -1,6 +1,8 @@
 # PouchDB Sublime snippets
 
-PouchDB snippets for Sublime Text.
+<img src="https://raw.githubusercontent.com/brenopolanski/pouchdb-sublime-snippets/gh-assets/pouchdb-sublime-snippets.png" alt="CSS Comments snippets" align="right" />
+
+PouchDB snippets for [Sublime Text](http://www.sublimetext.com/).
 
 ## Contributing
 
