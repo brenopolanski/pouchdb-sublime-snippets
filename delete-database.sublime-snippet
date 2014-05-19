@@ -5,5 +5,5 @@ ${1:db}.destroy('${2:dbname}', function(err, response) {
 });]]></content>
 	<tabTrigger><![CDATA[pdb-destroy]]></tabTrigger>
 	<scope>source.js</scope>
-	<description>PouchDB Delete a database</description>
+	<description>Delete a database</description>
 </snippet>

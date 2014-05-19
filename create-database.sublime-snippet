@@ -4,5 +4,5 @@ var ${1:db} = new PouchDB('${2:dbname}', {${3:options}: '${4:opt}'});
 ]]></content>
 	<tabTrigger><![CDATA[pdb-new]]></tabTrigger>
 	<scope>source.js</scope>
-	<description>PouchDB Create a database</description>
+	<description>Create a database</description>
 </snippet>
