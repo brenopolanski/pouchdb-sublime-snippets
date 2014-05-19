@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:db}.post(${2:docObject}, function callback(err, response) {
+${1:db}.post(${2:docObject}, function(err, response) {
 	${3:// your code goes here}
 });]]></content>
 	<tabTrigger><![CDATA[pdb-post]]></tabTrigger>
