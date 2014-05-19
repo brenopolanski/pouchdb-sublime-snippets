@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-${1:db}.get('${2:myDoc}', function(err, response) {
-	${3:// your code goes here}
-});]]></content>
-	<tabTrigger><![CDATA[pdb-get]]></tabTrigger>
-	<scope>source.js</scope>
-	<description>Update a document</description>
-</snippet>
