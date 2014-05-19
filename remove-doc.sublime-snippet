@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.remove(${2:doc._id}, ${3:doc._rev}, function(err, response) {
+	${4:// your code goes here}
+});]]></content>
+	<tabTrigger><![CDATA[pdb-remove]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Delete the document</description>
+</snippet>
