@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.sync(${2:src}, ${3:target}, ${4:options});
+]]></content>
+	<tabTrigger><![CDATA[pdb-sync]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Sync a database</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.changes(${2:options});
+]]></content>
+	<tabTrigger><![CDATA[pdb-changes]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Listen to database changes</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.getAttachment(${2:docId}, ${3:attachmentId}, ${4:options}, function(err, res) {
+	${5:// your code goes here}
+});]]></content>
+	<tabTrigger><![CDATA[pdb-getattachment]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Get an attachment</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.replicate.${2:type}(${3:remoteDB}, ${4:options});
+]]></content>
+	<tabTrigger><![CDATA[pdb-replicate]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Replicate a database</description>
+</snippet>
