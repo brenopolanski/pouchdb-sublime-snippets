@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.query(${2:fun}, ${3:options}, function(err, res) {
+	${4:// your code goes here}
+});]]></content>
+	<tabTrigger><![CDATA[pdb-query]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Query the database</description>
+</snippet>

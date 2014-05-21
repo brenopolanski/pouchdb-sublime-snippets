@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.info(function(err, res) {
+	${2:// your code goes here}
+});]]></content>
+	<tabTrigger><![CDATA[pdb-info]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Get database information</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.compact(${2:options}, function(err, res) {
+	${3:// your code goes here}
+});]]></content>
+	<tabTrigger><![CDATA[pdb-compact]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Compact the database</description>
+</snippet>
