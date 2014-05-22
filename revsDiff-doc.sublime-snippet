@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.revsDiff(${2:diff}, function(err, res) {
+	${3:// your code goes here}
+});]]></content>
+	<tabTrigger><![CDATA[pdb-revsdiff]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Document revisions diff</description>
+</snippet>

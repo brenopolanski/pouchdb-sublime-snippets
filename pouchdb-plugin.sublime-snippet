@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:PouchDB}.plugin({
+	${2:methodName: myFunction}
+});]]></content>
+	<tabTrigger><![CDATA[pdb-plugin]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>PouchDB plugins</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:PouchDB}.on('${2:event}', function(dbName) {
+	${3:// your code goes here}
+});]]></content>
+	<tabTrigger><![CDATA[pdb-event]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>PouchDB events</description>
+</snippet>
