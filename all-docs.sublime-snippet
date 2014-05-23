@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-${1:db}.allDocs(${2:options}, function(err, response) {
+${1:db}.allDocs(${2:options}, function(err, res) {
 	${3:// your code goes here}
 });]]></content>
-	<tabTrigger><![CDATA[pdb-alldocs]]></tabTrigger>
+	<tabTrigger><![CDATA[pdb-allDocs]]></tabTrigger>
 	<scope>source.js</scope>
 	<description>Fetch multiple documents</description>
 </snippet>

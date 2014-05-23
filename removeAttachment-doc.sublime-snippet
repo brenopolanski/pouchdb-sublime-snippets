@@ -3,7 +3,7 @@
 ${1:db}.getAttachment(${2:docId}, ${3:attachmentId}, ${4:rev}, function(err, res) {
 	${5:// your code goes here}
 });]]></content>
-	<tabTrigger><![CDATA[pdb-removeattachment]]></tabTrigger>
+	<tabTrigger><![CDATA[pdb-removeAttachment]]></tabTrigger>
 	<scope>source.js</scope>
 	<description>Delete an attachment</description>
 </snippet>

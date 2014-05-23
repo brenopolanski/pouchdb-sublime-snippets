@@ -3,7 +3,7 @@
 ${1:db}.putAttachment(${2:docId}, ${3:attachmentId}, ${4:rev}, ${5:doc}, ${6:type}, function(err, res) {
 	${7:// your code goes here}
 });]]></content>
-	<tabTrigger><![CDATA[pdb-putattachment]]></tabTrigger>
+	<tabTrigger><![CDATA[pdb-putAttachment]]></tabTrigger>
 	<scope>source.js</scope>
 	<description>Save an attachment</description>
 </snippet>

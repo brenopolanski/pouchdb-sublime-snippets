@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:db}.destroy('${2:dbname}', function(err, response) {
+${1:db}.destroy('${2:dbName}', function(err, res) {
 	${3:// your code goes here}
 });]]></content>
 	<tabTrigger><![CDATA[pdb-destroy]]></tabTrigger>

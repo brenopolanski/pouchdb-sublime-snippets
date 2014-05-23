@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:db}.put(${2:doc}, function(err, response) {
+${1:db}.put(${2:doc}, function(err, res) {
 	${3:// your code goes here}
 });]]></content>
 	<tabTrigger><![CDATA[pdb-put]]></tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-var ${1:db} = new PouchDB('${2:dbname}', {${3:options}: '${4:opt}'});
+var ${1:db} = new PouchDB('${2:dbName}', ${3:options});
 ]]></content>
 	<tabTrigger><![CDATA[pdb-new]]></tabTrigger>
 	<scope>source.js</scope>

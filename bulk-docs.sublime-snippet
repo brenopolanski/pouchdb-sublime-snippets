@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-${1:db}.bulkDocs(${2:docs}, function(err, response) {
+${1:db}.bulkDocs(${2:docs}, function(err, res) {
 	${3:// your code goes here}
 });]]></content>
-	<tabTrigger><![CDATA[pdb-bulkdocs]]></tabTrigger>
+	<tabTrigger><![CDATA[pdb-bulkDocs]]></tabTrigger>
 	<scope>source.js</scope>
 	<description>CRUD multiple documents</description>
 </snippet>
