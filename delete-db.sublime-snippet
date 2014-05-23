@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:db}.destroy('${2:dbname}', function(err, response) {
+	${3:// your code goes here}
+});]]></content>
+	<tabTrigger><![CDATA[pdb-destroy]]></tabTrigger>
+	<scope>source.js</scope>
+	<description>Delete a database</description>
+</snippet>
