@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-${1:db}.getAttachment(${2:docId}, ${3:attachmentId}, ${4:rev}, function(err, res) {
+${1:db}.removeAttachment(${2:docId}, ${3:attachmentId}, ${4:rev}, function(err, res) {
 	${5:// your code goes here}
 });]]></content>
 	<tabTrigger><![CDATA[pdb-removeAttachment]]></tabTrigger>
