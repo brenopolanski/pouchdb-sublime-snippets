@@ -6,7 +6,7 @@ PouchDB snippets for [Sublime Text](http://www.sublimetext.com/).
 
 [PouchDB](http://pouchdb.com/) is an open-source JavaScript database inspired by Apache [CouchDB](http://couchdb.apache.org) that is designed to run well within the browser. Was created to help web developers build applications that work as well offline as they do online.
 
-To install through Package Control, search for [**PouchDB**](https://github.com/brenopolanski/pouchdb-sublime-snippets). If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation). If you insist to not install it, you can download the package and put it manually inside your Pacakages directory. It should work but will not update automatically.
+To install through Package Control, search for [**PouchDB**](https://sublime.wbond.net/packages/PouchDB%20Snippets). If you still don't have Package Control in Sublime Text, [go get it](http://wbond.net/sublime_packages/package_control/installation). If you insist to not install it, you can download the package and put it manually inside your Pacakages directory. It should work but will not update automatically.
 
 ## Snippets
 
